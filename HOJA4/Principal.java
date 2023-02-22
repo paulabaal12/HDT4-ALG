@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 /**
- * @author Paula Barillas, Ana paula Navas, Nicolle Gordillo 
+ * @author Paula Barillas USO DE HOJA DE TRABAJO 2
  *
  */
 public class Principal {

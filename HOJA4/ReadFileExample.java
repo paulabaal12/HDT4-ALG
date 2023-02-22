@@ -1,7 +1,10 @@
 import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.Scanner; // Import the Scanner class to read text files
-
+/**
+ * @author Paula Barillas USO DE HOJA DE TRABAJO 2
+ *
+ */
 public class ReadFileExample {
   
   /** 

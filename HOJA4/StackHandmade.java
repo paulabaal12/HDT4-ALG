@@ -1,5 +1,5 @@
 /**
- * @author Paula Barillas, Ana paula Navas, Nicolle Gordillo 
+ * @author Paula Barillas USO DE HOJA DE TRABAJO 2
  *
  */
 public class StackHandmade<T> implements IStack<T> {

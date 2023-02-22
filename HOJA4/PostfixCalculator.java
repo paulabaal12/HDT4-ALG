@@ -2,7 +2,7 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 /**
- * @author Paula Barillas, Ana paula Navas, Nicolle Gordillo 
+ * @author Paula Barillas USO DE HOJA DE TRABAJO 2
  *
  */
 public class PostfixCalculator implements IPostfixCalculator  {
