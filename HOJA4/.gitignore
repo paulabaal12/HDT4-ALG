@@ -10,3 +10,6 @@
 /DriverProgram.class
 /registro.class
 /ListFactory.class
+/Singlenton.class
+/IPostfixCalculatorTest.class
+/infixtopostfix.class
